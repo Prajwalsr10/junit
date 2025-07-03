@@ -14,7 +14,7 @@ import com.ust.Calculator;
  * @author Administrator
  */
 public class TestCalculator {
-
+// Calcul
     @Rule
     public ExpectedException monitor = ExpectedException.none();
     Calculator calculator = new Calculator();
